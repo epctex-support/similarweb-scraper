@@ -1,4 +1,4 @@
-[https://apify.com/epctex/similarweb-scraper?fpr=yhdrb](https://apify.com/epctex/similarweb-scraper?fpr=yhdrb)
+[https://apify.com/epctex/similarweb-scraper](https://apify.com/epctex/similarweb-scraper?fpr=yhdrb)
 
 # Actor - Similarweb Scraper
 
